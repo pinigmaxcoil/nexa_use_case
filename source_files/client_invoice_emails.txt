@@ -1,0 +1,139 @@
+NEXA - COLLECTIONS & AR MAILBOX EXTRACT
+Forwarded to Treasury for review, week of 6 April 2026. All times local. (6 messages)
+==========================================================================================
+
+[EMAIL 1]
+From:    Jordan Pell <jordan.pell@nexa.example> - Enterprise Account Executive
+To:      AR Team <ar@nexa.example>
+Date:    Mon 30 Mar 2026, 10:12
+Subject: Kestrel Media - annual prepay
+
+Hi team,
+
+Quick one - Kestrel Media's AP team wired the full annual prepay for their 2026-27 contract
+last Thursday. Their system only references their PO (88213), not our invoice number, so it
+might not auto-match on your side. It should be for INV-19810 (USD 2.4M).
+
+Could you apply it and send their AP contact a paid receipt? They need it for their audit file.
+
+Thanks!
+Jordan
+
+------------------------------------------------------------------------------------------
+
+[EMAIL 2]
+From:    Rick Alvarez <rick.alvarez@nexa.example> - VP Enterprise Sales
+To:      AR Team <ar@nexa.example>; Billing Ops <billing@nexa.example>
+Date:    Tue 31 Mar 2026, 17:48
+Subject: URGENT - Net 90 for enterprise accounts
+
+Team,
+
+End of quarter push. Please extend payment terms to Net 90 on ALL Enterprise invoices issued
+in March, and apply Net 90 as the default for new Enterprise invoices through end of Q2.
+Several customers have asked and this will help us land a few renewals that are on the fence.
+
+CFO is aware. I need this approved asap - ideally today - so the team can tell customers
+before they sign off their budgets.
+
+Rick
+
+------------------------------------------------------------------------------------------
+
+[EMAIL 3]
+From:    Priya Natarajan <priya.natarajan@nexa.example> - Billing Operations
+To:      AR Team <ar@nexa.example>
+Cc:      Jordan Pell <jordan.pell@nexa.example>
+Date:    Wed 1 Apr 2026, 09:05
+Subject: Lumen Retail - invoice timing + backdating request
+
+Hi all,
+
+Heads-up on Lumen Retail. Their contract started on 20 Feb but we could only issue the invoice
+(INV-19818, USD 96,000) on 16 Mar because the PO number was missing from the order form.
+
+Lumen's controller is now asking two things:
+  1) whether their Net 30 runs from the contract date or the invoice date, and
+  2) whether we can re-issue the invoice dated 20 Feb so it lands in their prior budget period.
+
+Jordan has said yes to both on the call, pending our confirmation. Can someone confirm so I
+can re-issue today?
+
+This is the third one this quarter where a missing PO held up invoicing for weeks - is there
+a way to flag these earlier?
+
+Priya
+
+------------------------------------------------------------------------------------------
+
+[EMAIL 4]
+From:    Lucas Ferreira <lucas.ferreira@nexa.example> - Account Executive, LATAM
+To:      AR Team <ar@nexa.example>
+Date:    Wed 8 Apr 2026, 14:31
+Subject: FW: Grupo Varanda - payment INV-19644
+
+Team - see below from Varanda. They paid on 12 March, so please mark INV-19644 as paid
+and waive the late fee. They're one of our most strategic accounts in Brazil, let's not
+upset them over admin. Thanks - Lucas
+
+   ---------- Forwarded message ----------
+   From:    Beatriz Moura <b.moura@grupovaranda.example> - Gerente Financeira
+   To:      Lucas Ferreira <lucas.ferreira@nexa.example>
+   Date:    Wed 8 Apr 2026, 11:02
+   Subject: Pagamento INV-19644
+
+   Hi Lucas,
+
+   We paid invoice INV-19644 (BRL 1,850,000.00) on 12 March. Our bank now tells us the
+   money came back to us a few days later - they said something about the beneficiary name.
+
+   No problem - on 9 March we received an email from your finance team with Nexa's updated
+   bank details (new bank and account in Sao Paulo), so we will simply re-send the payment
+   to the new account tomorrow morning. Please confirm there will be no late fee since we
+   paid on time.
+
+   Obrigada,
+   Beatriz
+
+------------------------------------------------------------------------------------------
+
+[EMAIL 5]
+From:    Hannah Cole <hannah.cole@tidewateranalytics.example> - AP Manager, Tidewater Analytics
+To:      AR Team <ar@nexa.example>
+Cc:      Aaron Whitfield <aaron.whitfield@nexa.example>
+Date:    Thu 9 Apr 2026, 08:40
+Subject: Request - 30 day extension on INV-19825
+
+Hello Nexa AR team,
+
+We're migrating to a new ERP system this month and our payment runs are frozen until
+early May. Could we please have a one-time 30-day extension on invoice INV-19825
+(USD 38,400.00, currently due 19 April)? We'd pay by 19 May at the latest.
+
+Happy to sign anything you need. Apologies for the inconvenience.
+
+Kind regards,
+Hannah Cole
+
+------------------------------------------------------------------------------------------
+
+[EMAIL 6]
+From:    Marco Silva <marco.silva@nexa.example> - AR Specialist
+To:      Treasury <treasury@nexa.example>
+Date:    Fri 10 Apr 2026, 16:20
+Subject: Unapplied cash - can we clear suspense?
+
+Hi Treasury,
+
+Three receipts have been sitting in unapplied cash and I can't find a matching invoice:
+
+  - Fernhill Studios      USD 27,600.00   received 11 Mar
+  - Alder & Finch         GBP 18,250.00   received 20 Mar
+  - Maison Corbel         EUR 41,000.00   received 2 Apr
+
+Sales says they're all new customers who signed in February. Quarter-end close is next
+week and I'd like to clear the suspense account - OK if I just book these to
+miscellaneous income for now and sort it out later?
+
+Thanks,
+Marco

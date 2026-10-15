@@ -1,0 +1,426 @@
+collection_id,source_type,customer_or_psp,segment,entity,currency,amount_due,invoice_date,service_period_start,payment_terms,due_date,expected_value_date,receiving_account,po_number,sales_owner
+INV-19491,Invoice,Oakmoor Leisure Ltd,Mid-Market,Nexa UK Ltd,GBP,9150.0,2025-10-06,2025-10-01,Net 30,2025-11-05,2025-11-05,****3307,,Oliver Hayes
+INV-19486,Invoice,Beacon Fitness Clubs,Mid-Market,Nexa Inc,USD,18750.0,2025-10-06,2025-10-01,Net 30,2025-11-05,2025-11-05,****1021,,Aaron Whitfield
+INV-19492,Invoice,Beacon Fitness Clubs,Mid-Market,Nexa Inc,USD,18750.0,2025-11-03,2025-11-01,Net 30,2025-12-03,2025-12-03,****1021,,Aaron Whitfield
+INV-19499,Invoice,Harborview Clinics,Enterprise,Nexa Inc,USD,118600.0,2025-11-04,2025-11-01,Net 45,2025-12-19,2025-12-19,****1021,,Megan Liu
+INV-19505,Invoice,Oakmoor Leisure Ltd,Mid-Market,Nexa UK Ltd,GBP,10920.0,2025-11-24,2025-11-01,Net 30,2025-12-24,2025-12-24,****3307,,Oliver Hayes
+INV-19519,Invoice,Oakmoor Leisure Ltd,Mid-Market,Nexa UK Ltd,GBP,9150.0,2025-12-01,2025-12-01,Net 30,2025-12-31,2025-12-31,****3307,,Oliver Hayes
+INV-19513,Invoice,Beacon Fitness Clubs,Mid-Market,Nexa Inc,USD,18750.0,2025-12-01,2025-12-01,Net 30,2025-12-31,2025-12-31,****1021,,Aaron Whitfield
+INV-19523,Invoice,Silverline Events,Mid-Market,Nexa Inc,USD,15900.0,2025-12-03,2025-12-01,Net 30,2026-01-02,2026-01-02,****1021,,Aaron Whitfield
+INV-19510,Invoice,Castello Foods SpA,Enterprise,Nexa Europe B.V.,EUR,132500.0,2025-11-25,2025-11-01,Net 45,2026-01-09,2026-01-09,****2210,,Sofia Brandt
+INV-19529,Invoice,Silverline Events,Mid-Market,Nexa Inc,USD,15900.0,2026-01-01,2026-01-01,Net 30,2026-01-31,2026-02-02,****1021,,Aaron Whitfield
+INV-19536,Invoice,Beacon Fitness Clubs,Mid-Market,Nexa Inc,USD,18750.0,2026-01-02,2026-01-01,Net 30,2026-02-01,2026-02-02,****1021,,Aaron Whitfield
+LP-885400,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,338506.5,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****7019,,
+PT-20260302-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1858122.22,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****5122,,
+CV-20260302-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,397841.11,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****4410,,
+LP-886577,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,78194.48,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****2290,,
+CV-20260302-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,708979.81,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****2210,,
+LP-884889,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,570361.22,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****2210,,
+CV-20260302-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,433559.18,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****3307,,
+CV-20260302-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,459502.99,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****8840,,
+LP-885139,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,18027597.52,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****6612,,
+CV-20260302-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,54015585.0,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****6034,,
+PT-20260302-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,4777610.09,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****5560,,
+LP-886050,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,503758.31,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****2290,,
+LP-886265,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,644587.87,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****2290,,
+CV-20260302-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1650401.93,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****1021,,
+LP-884158,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,1018200.86,2026-03-02,,PSP payout,2026-03-02,2026-03-02,****1021,,
+LP-885426,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,168415.19,2026-03-03,,PSP payout,2026-03-03,2026-03-03,****7019,,
+PT-20260303-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1093946.1,2026-03-03,,PSP payout,2026-03-03,2026-03-03,****5122,,
+CV-20260303-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,222340.53,2026-03-03,,PSP payout,2026-03-03,2026-03-03,****4410,,
+CV-20260303-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,332711.94,2026-03-03,,PSP payout,2026-03-03,2026-03-03,****2210,,
+CV-20260303-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,212622.79,2026-03-03,,PSP payout,2026-03-03,2026-03-03,****3307,,
+CV-20260303-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,27832366.0,2026-03-03,,PSP payout,2026-03-03,2026-03-03,****6034,,
+CV-20260303-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1038341.15,2026-03-03,,PSP payout,2026-03-03,2026-03-03,****1021,,
+LP-884195,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,567119.14,2026-03-03,,PSP payout,2026-03-03,2026-03-03,****1021,,
+INV-19564,Invoice,Coral Coast Travel Pty,Enterprise,Nexa Australia Pty Ltd,AUD,96500.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****7019,,Chloe Tran
+LP-885462,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,182185.54,2026-03-04,,PSP payout,2026-03-04,2026-03-04,****7019,,
+PT-20260304-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1097749.98,2026-03-04,,PSP payout,2026-03-04,2026-03-04,****5122,,
+CV-20260304-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,210878.53,2026-03-04,,PSP payout,2026-03-04,2026-03-04,****4410,,
+INV-19571,Invoice,Northern Lights Clinics,Mid-Market,Nexa Canada Inc,CAD,11200.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****4410,,Chloe Tran
+CV-20260304-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,361585.31,2026-03-04,,PSP payout,2026-03-04,2026-03-04,****2210,,
+INV-19547,Invoice,Atelier Ronda SL,Mid-Market,Nexa Europe B.V.,EUR,5250.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****2210,,Sofia Brandt
+INV-19559,Invoice,Brasserie Lumiere SARL,Mid-Market,Nexa Europe B.V.,EUR,3900.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****2210,,Sofia Brandt
+INV-19565,Invoice,Groene Haven BV,Mid-Market,Nexa Europe B.V.,EUR,7800.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****2210,,Sofia Brandt
+CV-20260304-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,217219.32,2026-03-04,,PSP payout,2026-03-04,2026-03-04,****3307,,
+CV-20260304-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,24642412.0,2026-03-04,,PSP payout,2026-03-04,2026-03-04,****6034,,
+INV-19587,Invoice,Tanabe Logistics KK,Mid-Market,Nexa Japan K.K.,JPY,1650000.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****6034,,Kenji Mori
+CV-20260304-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,870651.86,2026-03-04,,PSP payout,2026-03-04,2026-03-04,****1021,,
+INV-19551,Invoice,Beacon Fitness Clubs,Mid-Market,Nexa Inc,USD,18750.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****1021,,Aaron Whitfield
+INV-19556,Invoice,Bluewater Hospitality,Enterprise,Nexa Inc,USD,74250.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****1021,,Aaron Whitfield
+INV-19568,Invoice,Juniper Learning Co,Mid-Market,Nexa Inc,USD,8650.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****1021,,Megan Liu
+INV-19575,Invoice,Pinecrest Dental Group,Mid-Market,Nexa Inc,USD,4800.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****1021,,Megan Liu
+INV-19581,Invoice,Pinecrest Dental Group,Mid-Market,Nexa Inc,USD,4800.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****1021,,Megan Liu
+INV-19585,Invoice,Redwood Civic Partners,Enterprise,Nexa Inc,USD,142800.0,2026-02-02,2026-02-01,Net 30,2026-03-04,2026-03-04,****1021,,Aaron Whitfield
+LP-884216,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,584195.29,2026-03-04,,PSP payout,2026-03-04,2026-03-04,****1021,,
+LP-885482,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,172684.04,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****7019,,
+PT-20260305-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,972451.32,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****5122,,
+CV-20260305-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,227376.42,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****4410,,
+LP-886613,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,63703.79,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****2290,,
+CV-20260305-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,366340.12,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****2210,,
+LP-884918,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,419175.11,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****2210,,
+CV-20260305-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,202485.1,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****3307,,
+INV-19615,Invoice,Oakmoor Leisure Ltd,Mid-Market,Nexa UK Ltd,GBP,9150.0,2026-02-03,2026-02-01,Net 30,2026-03-05,2026-03-05,****3307,,Oliver Hayes
+INV-19621,Invoice,Thornbury Legal LLP,Enterprise,Nexa UK Ltd,GBP,64800.0,2026-02-03,2026-02-01,Net 30,2026-03-05,2026-03-05,****3307,,Oliver Hayes
+CV-20260305-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,342524.33,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****8840,,
+LP-885166,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,12234933.71,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****6612,,
+CV-20260305-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,24063909.0,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****6034,,
+PT-20260305-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,3158909.39,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****5560,,
+LP-886065,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,359638.71,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****2290,,
+LP-886287,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,534999.09,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****2290,,
+CV-20260305-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,869035.7,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****1021,,
+INV-19594,Invoice,Clearwater Pools,Mid-Market,Nexa Inc,USD,4150.0,2026-02-03,2026-02-01,Net 30,2026-03-05,2026-03-05,****1021,,Aaron Whitfield
+INV-19601,Invoice,Crestview Property Mgmt,Mid-Market,Nexa Inc,USD,21800.0,2026-02-03,2026-02-01,Net 30,2026-03-05,2026-03-05,****1021,,Megan Liu
+INV-19607,Invoice,Ironwood Legal Group,Mid-Market,Nexa Inc,USD,9900.0,2026-02-03,2026-02-01,Net 30,2026-03-05,2026-03-05,****1021,,Jordan Pell
+INV-19613,Invoice,Northwind Architecture,Enterprise,Nexa Inc,USD,67630.0,2026-02-03,2026-02-01,Net 30,2026-03-05,2026-03-05,****1021,,Jordan Pell
+LP-884247,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,599857.29,2026-03-05,,PSP payout,2026-03-05,2026-03-05,****1021,,
+LP-885518,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,185896.71,2026-03-06,,PSP payout,2026-03-06,2026-03-06,****7019,,
+INV-19622,Invoice,Casa Aurora Ltda,Mid-Market,Nexa Brasil Ltda,BRL,42000.0,2026-02-04,2026-02-01,Net 30,2026-03-06,2026-03-06,****5122,,Lucas Ferreira
+PT-20260306-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1012710.6,2026-03-06,,PSP payout,2026-03-06,2026-03-06,****5122,,
+CV-20260306-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,209450.49,2026-03-06,,PSP payout,2026-03-06,2026-03-06,****4410,,
+CV-20260306-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,365502.95,2026-03-06,,PSP payout,2026-03-06,2026-03-06,****2210,,
+CV-20260306-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,246025.35,2026-03-06,,PSP payout,2026-03-06,2026-03-06,****3307,,
+INV-19627,Invoice,Hartwell Estates Ltd,Mid-Market,Nexa UK Ltd,GBP,7710.0,2026-02-04,2026-02-01,Net 30,2026-03-06,2026-03-06,****3307,,Oliver Hayes
+CV-20260306-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,24208408.0,2026-03-06,,PSP payout,2026-03-06,2026-03-06,****6034,,
+CV-20260306-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,875565.17,2026-03-06,,PSP payout,2026-03-06,2026-03-06,****1021,,
+INV-19632,Invoice,Sparrow Animal Hospitals,Mid-Market,Nexa Inc,USD,6300.0,2026-02-04,2026-02-01,Net 30,2026-03-06,2026-03-06,****1021,,Megan Liu
+INV-19639,Invoice,Summit Ridge Outfitters,Mid-Market,Nexa Inc,USD,12400.0,2026-02-04,2026-02-01,Net 30,2026-03-06,2026-03-06,****1021,,Aaron Whitfield
+LP-884273,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,545427.78,2026-03-06,,PSP payout,2026-03-06,2026-03-06,****1021,,
+LP-885521,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,354426.45,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****7019,,
+PT-20260309-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1940569.67,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****5122,,
+CV-20260309-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,388450.52,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****4410,,
+LP-886619,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,88400.84,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****2290,,
+CV-20260309-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,599925.19,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****2210,,
+LP-884948,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,572600.12,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****2210,,
+CV-20260309-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,422802.47,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****3307,,
+CV-20260309-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,548817.55,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****8840,,
+LP-885190,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,17262786.91,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****6612,,
+CV-20260309-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,45957730.0,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****6034,,
+PT-20260309-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,4853091.38,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****5560,,
+LP-886095,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,496460.62,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****2290,,
+LP-886320,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,718375.21,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****2290,,
+CV-20260309-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1899481.11,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****1021,,
+LP-884280,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,940895.55,2026-03-09,,PSP payout,2026-03-09,2026-03-09,****1021,,
+LP-885545,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,162131.46,2026-03-10,,PSP payout,2026-03-10,2026-03-10,****7019,,
+PT-20260310-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1098316.59,2026-03-10,,PSP payout,2026-03-10,2026-03-10,****5122,,
+CV-20260310-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,200670.36,2026-03-10,,PSP payout,2026-03-10,2026-03-10,****4410,,
+CV-20260310-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,367613.54,2026-03-10,,PSP payout,2026-03-10,2026-03-10,****2210,,
+CV-20260310-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,245518.09,2026-03-10,,PSP payout,2026-03-10,2026-03-10,****3307,,
+CV-20260310-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,26669932.0,2026-03-10,,PSP payout,2026-03-10,2026-03-10,****6034,,
+CV-20260310-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1019434.02,2026-03-10,,PSP payout,2026-03-10,2026-03-10,****1021,,
+LP-884311,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,536767.07,2026-03-10,,PSP payout,2026-03-10,2026-03-10,****1021,,
+LP-885583,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,185853.19,2026-03-11,,PSP payout,2026-03-11,2026-03-11,****7019,,
+PT-20260311-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1052700.6,2026-03-11,,PSP payout,2026-03-11,2026-03-11,****5122,,
+CV-20260311-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,210475.71,2026-03-11,,PSP payout,2026-03-11,2026-03-11,****4410,,
+CV-20260311-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,354443.09,2026-03-11,,PSP payout,2026-03-11,2026-03-11,****2210,,
+CV-20260311-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,243860.45,2026-03-11,,PSP payout,2026-03-11,2026-03-11,****3307,,
+CV-20260311-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,25501108.0,2026-03-11,,PSP payout,2026-03-11,2026-03-11,****6034,,
+CV-20260311-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,871924.82,2026-03-11,,PSP payout,2026-03-11,2026-03-11,****1021,,
+LP-884335,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,538335.33,2026-03-11,,PSP payout,2026-03-11,2026-03-11,****1021,,
+LP-885596,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,168610.68,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****7019,,
+INV-19644,Invoice,Grupo Varanda SA,Enterprise,Nexa Brasil Ltda,BRL,1850000.0,2026-02-10,2026-02-09,Net 30,2026-03-12,2026-03-12,****5122,,Lucas Ferreira
+PT-20260312-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1142420.34,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****5122,,
+CV-20260312-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,220711.12,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****4410,,
+LP-886650,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,53531.41,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****2290,,
+CV-20260312-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,344196.29,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****2210,,
+LP-884971,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,375637.95,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****2210,,
+CV-20260312-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,226727.43,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****3307,,
+CV-20260312-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,384329.39,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****8840,,
+LP-885207,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,12292365.52,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****6612,,
+CV-20260312-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,25331499.0,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****6034,,
+PT-20260312-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,3574979.5,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****5560,,
+LP-886105,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,360392.75,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****2290,,
+LP-886352,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,545753.97,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****2290,,
+CV-20260312-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1047830.42,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****1021,,
+INV-19645,Invoice,Tidewater Analytics,Mid-Market,Nexa Inc,USD,6200.0,2026-02-10,2026-02-09,Net 30,2026-03-12,2026-03-12,****1021,,Aaron Whitfield
+LP-884340,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,574645.34,2026-03-12,,PSP payout,2026-03-12,2026-03-12,****1021,,
+LP-885623,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,178296.17,2026-03-13,,PSP payout,2026-03-13,2026-03-13,****7019,,
+PT-20260313-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1138292.19,2026-03-13,,PSP payout,2026-03-13,2026-03-13,****5122,,
+CV-20260313-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,218523.86,2026-03-13,,PSP payout,2026-03-13,2026-03-13,****4410,,
+CV-20260313-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,320654.89,2026-03-13,,PSP payout,2026-03-13,2026-03-13,****2210,,
+CV-20260313-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,239492.2,2026-03-13,,PSP payout,2026-03-13,2026-03-13,****3307,,
+CV-20260313-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,26078992.0,2026-03-13,,PSP payout,2026-03-13,2026-03-13,****6034,,
+CV-20260313-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1013710.77,2026-03-13,,PSP payout,2026-03-13,2026-03-13,****1021,,
+LP-884373,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,585501.8,2026-03-13,,PSP payout,2026-03-13,2026-03-13,****1021,,
+LP-885639,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,347155.53,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****7019,,
+PT-20260316-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1907977.65,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****5122,,
+CV-20260316-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,425137.05,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****4410,,
+LP-886669,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,73970.08,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****2290,,
+CV-20260316-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,723510.09,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****2210,,
+INV-19651,Invoice,Kranich Mobility GmbH,Enterprise,Nexa Europe B.V.,EUR,88400.0,2026-02-12,2026-02-01,Net 30,2026-03-14,2026-03-16,****2210,,Sofia Brandt
+LP-884988,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,604597.02,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****2210,,
+CV-20260316-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,441358.76,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****3307,,
+CV-20260316-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,460409.94,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****8840,,
+LP-885227,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,15300566.08,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****6612,,
+CV-20260316-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,52756709.0,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****6034,,
+INV-19657,Invoice,Hoshizora Design KK,Enterprise,Nexa Japan K.K.,JPY,18400000.0,2026-02-13,2026-02-01,Net 30,2026-03-15,2026-03-16,****6034,,Kenji Mori
+PT-20260316-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,4390194.74,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****5560,,
+LP-886118,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,506312.22,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****2290,,
+LP-886373,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,627946.07,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****2290,,
+CV-20260316-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1834730.52,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****1021,,
+LP-884410,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,964289.77,2026-03-16,,PSP payout,2026-03-16,2026-03-16,****1021,,
+LP-885664,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,167298.76,2026-03-17,,PSP payout,2026-03-17,2026-03-17,****7019,,
+PT-20260317-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1031706.8,2026-03-17,,PSP payout,2026-03-17,2026-03-17,****5122,,
+CV-20260317-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,195112.78,2026-03-17,,PSP payout,2026-03-17,2026-03-17,****4410,,
+CV-20260317-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,341598.91,2026-03-17,,PSP payout,2026-03-17,2026-03-17,****2210,,
+CV-20260317-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,244706.65,2026-03-17,,PSP payout,2026-03-17,2026-03-17,****3307,,
+CV-20260317-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,26413416.0,2026-03-17,,PSP payout,2026-03-17,2026-03-17,****6034,,
+CV-20260317-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,940810.84,2026-03-17,,PSP payout,2026-03-17,2026-03-17,****1021,,
+LP-884427,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,592389.95,2026-03-17,,PSP payout,2026-03-17,2026-03-17,****1021,,
+LP-885685,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,165386.28,2026-03-18,,PSP payout,2026-03-18,2026-03-18,****7019,,
+PT-20260318-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,983618.27,2026-03-18,,PSP payout,2026-03-18,2026-03-18,****5122,,
+CV-20260318-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,212260.31,2026-03-18,,PSP payout,2026-03-18,2026-03-18,****4410,,
+CV-20260318-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,318456.14,2026-03-18,,PSP payout,2026-03-18,2026-03-18,****2210,,
+CV-20260318-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,237770.34,2026-03-18,,PSP payout,2026-03-18,2026-03-18,****3307,,
+CV-20260318-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,28273885.0,2026-03-18,,PSP payout,2026-03-18,2026-03-18,****6034,,
+CV-20260318-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,907771.23,2026-03-18,,PSP payout,2026-03-18,2026-03-18,****1021,,
+LP-884444,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,557979.71,2026-03-18,,PSP payout,2026-03-18,2026-03-18,****1021,,
+LP-885720,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,167313.2,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****7019,,
+PT-20260319-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,959778.33,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****5122,,
+CV-20260319-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,213054.52,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****4410,,
+LP-886696,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,58574.07,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****2290,,
+CV-20260319-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,317801.43,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****2210,,
+LP-885023,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,426708.8,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****2210,,
+CV-20260319-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,236473.17,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****3307,,
+CV-20260319-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,341701.36,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****8840,,
+LP-885256,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,12744460.85,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****6612,,
+CV-20260319-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,28967483.0,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****6034,,
+PT-20260319-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,3502208.29,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****5560,,
+LP-886149,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,354744.96,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****2290,,
+LP-886406,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,541340.02,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****2290,,
+CV-20260319-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,899990.75,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****1021,,
+INV-19560,Invoice,Cobalt Freight Systems,Enterprise,Nexa Inc,USD,96400.0,2026-02-02,2026-02-01,Net 45,2026-03-19,2026-03-19,****1021,,Megan Liu
+INV-19666,Invoice,Brightline Logistics,Enterprise,Nexa Inc,USD,184500.0,2026-02-17,2026-02-16,Net 30,2026-03-19,2026-03-19,****1021,,Jordan Pell
+INV-19673,Invoice,Orchard Health Partners,Enterprise,Nexa Inc,USD,212000.0,2026-02-17,2026-02-16,Net 30,2026-03-19,2026-03-19,****1021,,Jordan Pell
+LP-884459,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,554416.32,2026-03-19,,PSP payout,2026-03-19,2026-03-19,****1021,,
+LP-885736,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,190777.56,2026-03-20,,PSP payout,2026-03-20,2026-03-20,****7019,,
+PT-20260320-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,951596.56,2026-03-20,,PSP payout,2026-03-20,2026-03-20,****5122,,
+CV-20260320-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,228035.41,2026-03-20,,PSP payout,2026-03-20,2026-03-20,****4410,,
+CV-20260320-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,353774.1,2026-03-20,,PSP payout,2026-03-20,2026-03-20,****2210,,
+INV-19591,Invoice,Castello Foods SpA,Enterprise,Nexa Europe B.V.,EUR,132500.0,2026-02-03,2026-02-01,Net 45,2026-03-20,2026-03-20,****2210,,Sofia Brandt
+CV-20260320-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,225411.74,2026-03-20,,PSP payout,2026-03-20,2026-03-20,****3307,,
+CV-20260320-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,26396571.0,2026-03-20,,PSP payout,2026-03-20,2026-03-20,****6034,,
+CV-20260320-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1029098.91,2026-03-20,,PSP payout,2026-03-20,2026-03-20,****1021,,
+INV-19606,Invoice,Harborview Clinics,Enterprise,Nexa Inc,USD,118600.0,2026-02-03,2026-02-01,Net 45,2026-03-20,2026-03-20,****1021,,Megan Liu
+LP-884488,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,596404.89,2026-03-20,,PSP payout,2026-03-20,2026-03-20,****1021,,
+LP-885772,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,317413.56,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****7019,,
+PT-20260323-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1927570.5,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****5122,,
+CV-20260323-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,385952.98,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****4410,,
+LP-886732,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,88267.19,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****2290,,
+CV-20260323-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,691176.42,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****2210,,
+LP-885038,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,624045.94,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****2210,,
+CV-20260323-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,400295.47,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****3307,,
+CV-20260323-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,469945.98,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****8840,,
+LP-885290,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,17300672.02,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****6612,,
+CV-20260323-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,50421649.0,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****6034,,
+PT-20260323-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,4373706.07,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****5560,,
+LP-886158,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,459901.19,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****2290,,
+LP-886427,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,680659.33,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****2290,,
+CV-20260323-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1725582.92,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****1021,,
+LP-884527,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,1036681.12,2026-03-23,,PSP payout,2026-03-23,2026-03-23,****1021,,
+LP-885811,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,167247.32,2026-03-24,,PSP payout,2026-03-24,2026-03-24,****7019,,
+PT-20260324-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1128111.79,2026-03-24,,PSP payout,2026-03-24,2026-03-24,****5122,,
+CV-20260324-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,208833.2,2026-03-24,,PSP payout,2026-03-24,2026-03-24,****4410,,
+CV-20260324-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,320780.58,2026-03-24,,PSP payout,2026-03-24,2026-03-24,****2210,,
+CV-20260324-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,226455.04,2026-03-24,,PSP payout,2026-03-24,2026-03-24,****3307,,
+CV-20260324-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,27671001.0,2026-03-24,,PSP payout,2026-03-24,2026-03-24,****6034,,
+CV-20260324-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1045193.33,2026-03-24,,PSP payout,2026-03-24,2026-03-24,****1021,,
+LP-884563,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,572801.21,2026-03-24,,PSP payout,2026-03-24,2026-03-24,****1021,,
+LP-885841,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,165694.0,2026-03-25,,PSP payout,2026-03-25,2026-03-25,****7019,,
+PT-20260325-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1038540.97,2026-03-25,,PSP payout,2026-03-25,2026-03-25,****5122,,
+CV-20260325-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,225026.68,2026-03-25,,PSP payout,2026-03-25,2026-03-25,****4410,,
+CV-20260325-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,354023.63,2026-03-25,,PSP payout,2026-03-25,2026-03-25,****2210,,
+CV-20260325-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,243912.66,2026-03-25,,PSP payout,2026-03-25,2026-03-25,****3307,,
+CV-20260325-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,24330681.0,2026-03-25,,PSP payout,2026-03-25,2026-03-25,****6034,,
+CV-20260325-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,980441.81,2026-03-25,,PSP payout,2026-03-25,2026-03-25,****1021,,
+INV-19678,Invoice,Maple & Oak Bakeries,Mid-Market,Nexa Inc,USD,3450.0,2026-02-23,2026-02-01,Net 30,2026-03-25,2026-03-25,****1021,,Jordan Pell
+LP-884596,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,525232.66,2026-03-25,,PSP payout,2026-03-25,2026-03-25,****1021,,
+LP-885868,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,177769.23,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****7019,,
+PT-20260326-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1103916.94,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****5122,,
+CV-20260326-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,230010.22,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****4410,,
+LP-886735,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,60104.87,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****2290,,
+CV-20260326-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,368229.5,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****2210,,
+LP-885048,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,410770.9,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****2210,,
+CV-20260326-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,204269.75,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****3307,,
+CV-20260326-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,390806.07,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****8840,,
+LP-885325,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,12648130.18,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****6612,,
+CV-20260326-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,24933373.0,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****6034,,
+PT-20260326-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,3272477.86,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****5560,,
+LP-886195,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,327371.95,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****2290,,
+LP-886440,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,477142.71,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****2290,,
+CV-20260326-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1051801.08,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****1021,,
+INV-19810,Invoice,Kestrel Media Group,Enterprise,Nexa Inc,USD,2400000.0,2026-03-11,2026-04-01,Net 15 (annual upfront),2026-03-26,2026-03-26,****1021,88213,Jordan Pell
+LP-884616,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,525335.35,2026-03-26,,PSP payout,2026-03-26,2026-03-26,****1021,,
+LP-885897,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,180775.72,2026-03-27,,PSP payout,2026-03-27,2026-03-27,****7019,,
+PT-20260327-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,957966.76,2026-03-27,,PSP payout,2026-03-27,2026-03-27,****5122,,
+CV-20260327-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,223239.78,2026-03-27,,PSP payout,2026-03-27,2026-03-27,****4410,,
+CV-20260327-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,379239.71,2026-03-27,,PSP payout,2026-03-27,2026-03-27,****2210,,
+CV-20260327-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,226147.55,2026-03-27,,PSP payout,2026-03-27,2026-03-27,****3307,,
+CV-20260327-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,27295548.0,2026-03-27,,PSP payout,2026-03-27,2026-03-27,****6034,,
+CV-20260327-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1014595.65,2026-03-27,,PSP payout,2026-03-27,2026-03-27,****1021,,
+LP-884640,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,597477.51,2026-03-27,,PSP payout,2026-03-27,2026-03-27,****1021,,
+INV-19682,Invoice,Eucalypt Media Pty,Mid-Market,Nexa Australia Pty Ltd,AUD,11410.0,2026-02-27,2026-02-01,Net 30,2026-03-29,2026-03-30,****7019,,Chloe Tran
+LP-885908,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,329398.06,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****7019,,
+PT-20260330-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1970822.33,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****5122,,
+CV-20260330-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,409175.02,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****4410,,
+LP-886743,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,75923.27,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****2290,,
+CV-20260330-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,602950.74,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****2210,,
+LP-885065,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,569436.15,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****2210,,
+CV-20260330-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,425270.84,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****3307,,
+CV-20260330-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,530933.92,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****8840,,
+LP-885355,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,16172168.42,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****6612,,
+CV-20260330-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,46882587.0,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****6034,,
+PT-20260330-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,4557909.8,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****5560,,
+LP-886204,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,473938.44,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****2290,,
+LP-886473,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,631909.61,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****2290,,
+CV-20260330-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1844247.14,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****1021,,
+LP-884665,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,1137596.08,2026-03-30,,PSP payout,2026-03-30,2026-03-30,****1021,,
+LP-885923,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,190676.53,2026-03-31,,PSP payout,2026-03-31,2026-03-31,****7019,,
+PT-20260331-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1094046.22,2026-03-31,,PSP payout,2026-03-31,2026-03-31,****5122,,
+CV-20260331-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,205988.84,2026-03-31,,PSP payout,2026-03-31,2026-03-31,****4410,,
+CV-20260331-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,382569.18,2026-03-31,,PSP payout,2026-03-31,2026-03-31,****2210,,
+INV-19659,Invoice,Veldhuis Retail Group,Enterprise,Nexa Europe B.V.,EUR,1148720.0,2026-02-14,2026-02-13,Net 45,2026-03-31,2026-03-31,****2210,,Sofia Brandt
+CV-20260331-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,223209.57,2026-03-31,,PSP payout,2026-03-31,2026-03-31,****3307,,
+CV-20260331-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,25728421.0,2026-03-31,,PSP payout,2026-03-31,2026-03-31,****6034,,
+CV-20260331-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1008315.11,2026-03-31,,PSP payout,2026-03-31,2026-03-31,****1021,,
+INV-19543,Invoice,Granite Peak Insurance,Enterprise,Nexa Inc,USD,386250.0,2026-01-30,2026-01-29,Net 60,2026-03-31,2026-03-31,****1021,,Megan Liu
+LP-884680,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,512996.78,2026-03-31,,PSP payout,2026-03-31,2026-03-31,****1021,,
+INV-19698,Invoice,Eucalypt Media Pty,Mid-Market,Nexa Australia Pty Ltd,AUD,10770.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****7019,,Chloe Tran
+LP-885928,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,182437.72,2026-04-01,,PSP payout,2026-04-01,2026-04-01,****7019,,
+INV-19726,Invoice,Rede Palmeira SA,Enterprise,Nexa Brasil Ltda,BRL,615000.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****5122,,Lucas Ferreira
+PT-20260401-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1094633.2,2026-04-01,,PSP payout,2026-04-01,2026-04-01,****5122,,
+CV-20260401-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,227160.6,2026-04-01,,PSP payout,2026-04-01,2026-04-01,****4410,,
+INV-19707,Invoice,Northern Lights Clinics,Mid-Market,Nexa Canada Inc,CAD,14510.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****4410,,Chloe Tran
+CV-20260401-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,335442.27,2026-04-01,,PSP payout,2026-04-01,2026-04-01,****2210,,
+INV-19687,Invoice,Atelier Ronda SL,Mid-Market,Nexa Europe B.V.,EUR,6150.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****2210,,Sofia Brandt
+INV-19704,Invoice,Groene Haven BV,Mid-Market,Nexa Europe B.V.,EUR,9890.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****2210,,Sofia Brandt
+CV-20260401-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,232291.02,2026-04-01,,PSP payout,2026-04-01,2026-04-01,****3307,,
+CV-20260401-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,23888830.0,2026-04-01,,PSP payout,2026-04-01,2026-04-01,****6034,,
+CV-20260401-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1028633.1,2026-04-01,,PSP payout,2026-04-01,2026-04-01,****1021,,
+INV-19691,Invoice,Beacon Fitness Clubs,Mid-Market,Nexa Inc,USD,18750.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****1021,,Aaron Whitfield
+INV-19708,Invoice,Northwind Architecture,Enterprise,Nexa Inc,USD,61900.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****1021,,Jordan Pell
+INV-19715,Invoice,Pinecrest Dental Group,Mid-Market,Nexa Inc,USD,4800.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****1021,,Megan Liu
+INV-19720,Invoice,Pinecrest Dental Group,Mid-Market,Nexa Inc,USD,4800.0,2026-03-02,2026-03-01,Net 30,2026-04-01,2026-04-01,****1021,,Megan Liu
+INV-19729,Invoice,Silverline Events,Mid-Market,Nexa Inc,USD,15900.0,2026-03-02,2026-02-01,Net 30,2026-04-01,2026-04-01,****1021,,Aaron Whitfield
+LP-884701,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,509599.82,2026-04-01,,PSP payout,2026-04-01,2026-04-01,****1021,,
+LP-885935,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,165839.47,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****7019,,
+INV-19732,Invoice,Casa Aurora Ltda,Mid-Market,Nexa Brasil Ltda,BRL,42000.0,2026-03-03,2026-03-01,Net 30,2026-04-02,2026-04-02,****5122,,Lucas Ferreira
+PT-20260402-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,950945.94,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****5122,,
+CV-20260402-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,187936.15,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****4410,,
+LP-886763,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,63764.84,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****2290,,
+CV-20260402-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,324992.95,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****2210,,
+INV-19752,Invoice,Kranich Mobility GmbH,Enterprise,Nexa Europe B.V.,EUR,88400.0,2026-03-03,2026-03-01,Net 30,2026-04-02,2026-04-02,****2210,,Sofia Brandt
+LP-885073,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,432913.21,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****2210,,
+CV-20260402-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,232793.56,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****3307,,
+INV-19739,Invoice,Hartwell Estates Ltd,Mid-Market,Nexa UK Ltd,GBP,6400.0,2026-03-03,2026-03-01,Net 30,2026-04-02,2026-04-02,****3307,,Oliver Hayes
+CV-20260402-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,326737.96,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****8840,,
+LP-885375,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,12763396.46,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****6612,,
+CV-20260402-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,25461050.0,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****6034,,
+INV-19742,Invoice,Hoshizora Design KK,Enterprise,Nexa Japan K.K.,JPY,18400000.0,2026-03-03,2026-03-01,Net 30,2026-04-02,2026-04-02,****6034,,Kenji Mori
+PT-20260402-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,3101579.97,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****5560,,
+LP-886232,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,335216.05,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****2290,,
+LP-886483,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,485099.47,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****2290,,
+CV-20260402-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1020106.1,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****1021,,
+INV-19746,Invoice,Juniper Learning Co,Mid-Market,Nexa Inc,USD,8650.0,2026-03-03,2026-03-01,Net 30,2026-04-02,2026-04-02,****1021,,Megan Liu
+INV-19756,Invoice,Orchard Health Partners,Enterprise,Nexa Inc,USD,275270.0,2026-03-03,2026-03-01,Net 30,2026-04-02,2026-04-02,****1021,,Jordan Pell
+INV-19762,Invoice,Silverline Events,Mid-Market,Nexa Inc,USD,20090.0,2026-03-03,2026-03-01,Net 30,2026-04-02,2026-04-02,****1021,,Aaron Whitfield
+LP-884727,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,551996.45,2026-04-02,,PSP payout,2026-04-02,2026-04-02,****1021,,
+LP-885939,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,198848.69,2026-04-03,,PSP payout,2026-04-03,2026-04-03,****7019,,
+PT-20260403-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1081111.96,2026-04-03,,PSP payout,2026-04-03,2026-04-03,****5122,,
+CV-20260403-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,213564.77,2026-04-03,,PSP payout,2026-04-03,2026-04-03,****4410,,
+CV-20260403-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,323667.14,2026-04-03,,PSP payout,2026-04-03,2026-04-03,****2210,,
+CV-20260403-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,237991.86,2026-04-03,,PSP payout,2026-04-03,2026-04-03,****3307,,
+INV-19784,Invoice,Oakmoor Leisure Ltd,Mid-Market,Nexa UK Ltd,GBP,9150.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****3307,,Oliver Hayes
+INV-19804,Invoice,Thornbury Legal LLP,Enterprise,Nexa UK Ltd,GBP,64800.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****3307,,Oliver Hayes
+CV-20260403-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,25962761.0,2026-04-03,,PSP payout,2026-04-03,2026-04-03,****6034,,
+INV-19800,Invoice,Tanabe Logistics KK,Mid-Market,Nexa Japan K.K.,JPY,1906130.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****6034,,Kenji Mori
+CV-20260403-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,876233.93,2026-04-03,,PSP payout,2026-04-03,2026-04-03,****1021,,
+INV-19765,Invoice,Bluewater Hospitality,Enterprise,Nexa Inc,USD,74250.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****1021,,Aaron Whitfield
+INV-19772,Invoice,Crestview Property Mgmt,Mid-Market,Nexa Inc,USD,21800.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****1021,,Megan Liu
+INV-19778,Invoice,Ironwood Legal Group,Mid-Market,Nexa Inc,USD,9900.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****1021,,Jordan Pell
+INV-19779,Invoice,Maple & Oak Bakeries,Mid-Market,Nexa Inc,USD,3450.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****1021,,Jordan Pell
+INV-19791,Invoice,Sparrow Animal Hospitals,Mid-Market,Nexa Inc,USD,6300.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****1021,,Megan Liu
+INV-19793,Invoice,Summit Ridge Outfitters,Mid-Market,Nexa Inc,USD,12400.0,2026-03-04,2026-03-01,Net 30,2026-04-03,2026-04-03,****1021,,Aaron Whitfield
+LP-884758,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,557054.52,2026-04-03,,PSP payout,2026-04-03,2026-04-03,****1021,,
+LP-885956,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,327534.45,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****7019,,
+PT-20260406-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1883349.76,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****5122,,
+CV-20260406-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,427386.46,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****4410,,
+LP-886783,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,82717.21,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****2290,,
+CV-20260406-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,679366.7,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****2210,,
+LP-885087,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,612568.12,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****2210,,
+CV-20260406-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,392261.16,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****3307,,
+CV-20260406-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,530613.85,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****8840,,
+LP-885389,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,16959102.82,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****6612,,
+CV-20260406-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,53440429.0,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****6034,,
+PT-20260406-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,4626424.41,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****5560,,
+LP-886246,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,520383.53,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****2290,,
+LP-886517,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,759403.52,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****2290,,
+CV-20260406-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,1898082.84,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****1021,,
+LP-884793,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,974770.51,2026-04-06,,PSP payout,2026-04-06,2026-04-06,****1021,,
+LP-885971,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,172146.56,2026-04-07,,PSP payout,2026-04-07,2026-04-07,****7019,,
+PT-20260407-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1016704.51,2026-04-07,,PSP payout,2026-04-07,2026-04-07,****5122,,
+CV-20260407-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,206872.66,2026-04-07,,PSP payout,2026-04-07,2026-04-07,****4410,,
+CV-20260407-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,367345.33,2026-04-07,,PSP payout,2026-04-07,2026-04-07,****2210,,
+CV-20260407-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,230745.74,2026-04-07,,PSP payout,2026-04-07,2026-04-07,****3307,,
+CV-20260407-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,27525736.0,2026-04-07,,PSP payout,2026-04-07,2026-04-07,****6034,,
+CV-20260407-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,964766.56,2026-04-07,,PSP payout,2026-04-07,2026-04-07,****1021,,
+LP-884798,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,531499.88,2026-04-07,,PSP payout,2026-04-07,2026-04-07,****1021,,
+LP-886009,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,170980.3,2026-04-08,,PSP payout,2026-04-08,2026-04-08,****7019,,
+PT-20260408-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1116145.02,2026-04-08,,PSP payout,2026-04-08,2026-04-08,****5122,,
+CV-20260408-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,226641.87,2026-04-08,,PSP payout,2026-04-08,2026-04-08,****4410,,
+CV-20260408-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,325959.33,2026-04-08,,PSP payout,2026-04-08,2026-04-08,****2210,,
+CV-20260408-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,210828.11,2026-04-08,,PSP payout,2026-04-08,2026-04-08,****3307,,
+CV-20260408-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,24384203.0,2026-04-08,,PSP payout,2026-04-08,2026-04-08,****6034,,
+CV-20260408-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,986060.86,2026-04-08,,PSP payout,2026-04-08,2026-04-08,****1021,,
+LP-884833,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,543328.89,2026-04-08,,PSP payout,2026-04-08,2026-04-08,****1021,,
+LP-886021,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,183444.44,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****7019,,
+PT-20260409-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1091376.09,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****5122,,
+CV-20260409-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,195565.28,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****4410,,
+LP-886806,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,CHF,61395.69,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****2290,,
+CV-20260409-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,355246.23,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****2210,,
+LP-885102,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,418430.75,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****2210,,
+CV-20260409-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,208287.42,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****3307,,
+CV-20260409-ILS,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Technologies Ltd,ILS,361690.51,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****8840,,
+LP-885395,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa India Pvt Ltd,INR,11703679.73,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****6612,,
+CV-20260409-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,28694960.0,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****6034,,
+PT-20260409-MXN,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Mexico S. de R.L.,MXN,3245987.96,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****5560,,
+LP-886261,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,PLN,341388.24,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****2290,,
+LP-886549,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Europe B.V.,SEK,511538.76,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****2290,,
+CV-20260409-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,887754.36,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****1021,,
+LP-884858,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,534160.83,2026-04-09,,PSP payout,2026-04-09,2026-04-09,****1021,,
+LP-886025,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Australia Pty Ltd,AUD,172088.79,2026-04-10,,PSP payout,2026-04-10,2026-04-10,****7019,,
+PT-20260410-BRL,PSP settlement,PagoTerra (card settlements),Self-serve (PSP),Nexa Brasil Ltda,BRL,1093102.07,2026-04-10,,PSP payout,2026-04-10,2026-04-10,****5122,,
+CV-20260410-CAD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Canada Inc,CAD,202557.75,2026-04-10,,PSP payout,2026-04-10,2026-04-10,****4410,,
+CV-20260410-EUR,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Europe B.V.,EUR,362310.53,2026-04-10,,PSP payout,2026-04-10,2026-04-10,****2210,,
+CV-20260410-GBP,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa UK Ltd,GBP,213107.5,2026-04-10,,PSP payout,2026-04-10,2026-04-10,****3307,,
+CV-20260410-JPY,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Japan K.K.,JPY,25871180.0,2026-04-10,,PSP payout,2026-04-10,2026-04-10,****6034,,
+CV-20260410-USD,PSP settlement,Cardivo (card settlements),Self-serve (PSP),Nexa Inc,USD,871354.39,2026-04-10,,PSP payout,2026-04-10,2026-04-10,****1021,,
+LP-884872,PSP settlement,Lumipay (card settlements),Self-serve (PSP),Nexa Inc,USD,491559.28,2026-04-10,,PSP payout,2026-04-10,2026-04-10,****1021,,
+INV-19816,Invoice,Clearwater Pools,Mid-Market,Nexa Inc,USD,4670.0,2026-03-16,2026-03-01,Net 30,2026-04-15,2026-04-15,****1021,,Aaron Whitfield
+INV-19818,Invoice,Lumen Retail Inc,Enterprise,Nexa Inc,USD,96000.0,2026-03-16,2026-02-20,Net 30,2026-04-15,2026-04-15,****1021,,Jordan Pell
+INV-19733,Invoice,Cobalt Freight Systems,Enterprise,Nexa Inc,USD,96400.0,2026-03-03,2026-03-01,Net 45,2026-04-17,2026-04-17,****1021,,Megan Liu
+INV-19825,Invoice,Tidewater Analytics,Mid-Market,Nexa Inc,USD,38400.0,2026-03-20,2026-03-19,Net 30,2026-04-19,2026-04-20,****1021,,Aaron Whitfield
+INV-19827,Invoice,Brightline Logistics,Enterprise,Nexa Inc,USD,184500.0,2026-03-24,2026-03-01,Net 30,2026-04-23,2026-04-23,****1021,,Jordan Pell
+INV-19829,Invoice,Brasserie Lumiere SARL,Mid-Market,Nexa Europe B.V.,EUR,3900.0,2026-03-26,2026-03-01,Net 30,2026-04-25,2026-04-27,****2210,,Sofia Brandt
+INV-19832,Invoice,Northern Lights Clinics,Mid-Market,Nexa Canada Inc,CAD,11200.0,2026-04-01,2026-04-01,Net 30,2026-05-01,2026-05-01,****4410,,Chloe Tran
+INV-19838,Invoice,Tanabe Logistics KK,Mid-Market,Nexa Japan K.K.,JPY,1650000.0,2026-04-01,2026-04-01,Net 30,2026-05-01,2026-05-01,****6034,,Kenji Mori
+INV-19883,Invoice,Casa Aurora Ltda,Mid-Market,Nexa Brasil Ltda,BRL,42000.0,2026-04-03,2026-04-01,Net 30,2026-05-03,2026-05-04,****5122,,Lucas Ferreira
+INV-19895,Invoice,Maplecrest Realty Inc,Enterprise,Nexa Canada Inc,CAD,148000.0,2026-04-03,2026-04-01,Net 30,2026-05-03,2026-05-04,****4410,,Chloe Tran
+INV-19862,Invoice,Oakmoor Leisure Ltd,Mid-Market,Nexa UK Ltd,GBP,9150.0,2026-04-02,2026-04-01,Net 30,2026-05-02,2026-05-04,****3307,,Oliver Hayes
+INV-19877,Invoice,Thornbury Legal LLP,Enterprise,Nexa UK Ltd,GBP,64800.0,2026-04-02,2026-04-01,Net 30,2026-05-02,2026-05-04,****3307,,Oliver Hayes
+INV-19852,Invoice,Hoshizora Design KK,Enterprise,Nexa Japan K.K.,JPY,18400000.0,2026-04-02,2026-04-01,Net 30,2026-05-02,2026-05-04,****6034,,Kenji Mori
+INV-19843,Invoice,Beacon Fitness Clubs,Mid-Market,Nexa Inc,USD,18750.0,2026-04-02,2026-04-01,Net 30,2026-05-02,2026-05-04,****1021,,Aaron Whitfield
+INV-19846,Invoice,Bluewater Hospitality,Enterprise,Nexa Inc,USD,74250.0,2026-04-02,2026-04-01,Net 30,2026-05-02,2026-05-04,****1021,,Aaron Whitfield
+INV-19856,Invoice,Juniper Learning Co,Mid-Market,Nexa Inc,USD,8650.0,2026-04-02,2026-04-01,Net 30,2026-05-02,2026-05-04,****1021,,Megan Liu
+INV-19868,Invoice,Sparrow Animal Hospitals,Mid-Market,Nexa Inc,USD,6300.0,2026-04-02,2026-04-01,Net 30,2026-05-02,2026-05-04,****1021,,Megan Liu
+INV-19871,Invoice,Summit Ridge Outfitters,Mid-Market,Nexa Inc,USD,12400.0,2026-04-02,2026-04-01,Net 30,2026-05-02,2026-05-04,****1021,,Aaron Whitfield
+INV-19900,Invoice,Atelier Ronda SL,Mid-Market,Nexa Europe B.V.,EUR,5250.0,2026-04-06,2026-04-01,Net 30,2026-05-06,2026-05-06,****2210,,Sofia Brandt
+INV-19902,Invoice,Brasserie Lumiere SARL,Mid-Market,Nexa Europe B.V.,EUR,3900.0,2026-04-06,2026-04-01,Net 30,2026-05-06,2026-05-06,****2210,,Sofia Brandt
+INV-19914,Invoice,Groene Haven BV,Mid-Market,Nexa Europe B.V.,EUR,7800.0,2026-04-06,2026-04-01,Net 30,2026-05-06,2026-05-06,****2210,,Sofia Brandt
+INV-19915,Invoice,Hartwell Estates Ltd,Mid-Market,Nexa UK Ltd,GBP,6400.0,2026-04-06,2026-04-01,Net 30,2026-05-06,2026-05-06,****3307,,Oliver Hayes
+INV-19907,Invoice,Clearwater Pools,Mid-Market,Nexa Inc,USD,4150.0,2026-04-06,2026-04-01,Net 30,2026-05-06,2026-05-06,****1021,,Aaron Whitfield
+INV-19916,Invoice,Ironwood Legal Group,Mid-Market,Nexa Inc,USD,9900.0,2026-04-06,2026-04-01,Net 30,2026-05-06,2026-05-06,****1021,,Jordan Pell
+INV-19920,Invoice,Maple & Oak Bakeries,Mid-Market,Nexa Inc,USD,3450.0,2026-04-06,2026-04-01,Net 30,2026-05-06,2026-05-06,****1021,,Jordan Pell
+INV-19923,Invoice,Northwind Architecture,Enterprise,Nexa Inc,USD,61900.0,2026-04-06,2026-04-01,Net 30,2026-05-06,2026-05-06,****1021,,Jordan Pell
+INV-19893,Invoice,Kingsmere Education Trust,Enterprise,Nexa UK Ltd,GBP,112000.0,2026-04-03,2026-04-01,Net 45,2026-05-18,2026-05-18,****3307,,Oliver Hayes
+INV-19889,Invoice,Cobalt Freight Systems,Enterprise,Nexa Inc,USD,96400.0,2026-04-03,2026-04-01,Net 45,2026-05-18,2026-05-18,****1021,,Megan Liu
