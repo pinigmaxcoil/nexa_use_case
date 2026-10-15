@@ -1,0 +1,10 @@
+metric,value,unit
+Open invoices,50.0,count
+Open AR,2441662.8898520144,USD
+Overdue share of open AR,48.89867316232408,%
+Avg invoice lag after service start,3.8316831683168315,days
+Invoices issued >7 days after service start,10.891089108910892,%
+Avg days paid vs expected date,3.230769230769231,days
+Invoices paid >3 days late,30.76923076923077,%
+Unapplied receipts,95993.4,USD
+Unapplied receipts,3.0,count

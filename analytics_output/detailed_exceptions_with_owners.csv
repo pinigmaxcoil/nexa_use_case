@@ -1,0 +1,11 @@
+bank_reference,currency,amount,bank,entity,expected_id,amount_diff,unmatched_amount,exception_reason,tracking_status,assigned_owner,next_step
+AGB260306640482,GBP,64775.0,Arcturus Global Bank,Nexa UK Ltd,INV-19621,-25.0,25.0,Short payment - bank fee deduction,Under AR Review,AR & Treasury,Confirm payer-side bank charges; clear the small residual or request a top-up
+BIP260312687193,BRL,1850000.0,Banco Ipanova,Nexa Brasil Ltda,INV-19644,0.0,1850000.0,Receipt returned by bank (wire return),Escalated,Treasury & AR,Invoice stays open; confirm correct bank details via a known Treasury contact (no email changes)
+AGB260317380400,EUR,88385.0,Arcturus Global Bank,Nexa Europe B.V.,INV-19651,-15.0,15.0,Short payment - bank fee deduction,Under AR Review,AR & Treasury,Confirm payer-side bank charges; clear the small residual or request a top-up
+KPB260317541415,JPY,18397500.0,Kaiun Pacific Bank,Nexa Japan K.K.,INV-19657,-2500.0,2500.0,Short payment - bank fee deduction,Under AR Review,AR & Treasury,Confirm payer-side bank charges; clear the small residual or request a top-up
+AGB260319571911,USD,148500.0,Arcturus Global Bank,Nexa Inc,INV-19666,-36000.0,36000.0,Short payment,Open / Under AR Review,AR Team,Contact customer for remittance advice and request the balance
+AGB260319598298,USD,248000.0,Arcturus Global Bank,Nexa Inc,INV-19673,36000.0,36000.0,Overpayment,Open / Under AR Review,AR Team,Check for a misapplied payment; refund or apply to the next invoice
+AGB260311503306,USD,27600.0,Arcturus Global Bank,Nexa Inc,,,27600.0,Unapplied receipt (no expected record),Open / Under AR Review,AR & Sales Ops,"Identify customer/contract; keep in suspense, do not book to misc income"
+AGB260320436939,GBP,18250.0,Arcturus Global Bank,Nexa UK Ltd,,,18250.0,Unapplied receipt (no expected record),Open / Under AR Review,AR & Sales Ops,"Identify customer/contract; keep in suspense, do not book to misc income"
+AGB260402435782,EUR,41000.0,Arcturus Global Bank,Nexa Europe B.V.,,,41000.0,Unapplied receipt (no expected record),Open / Under AR Review,AR & Sales Ops,"Identify customer/contract; keep in suspense, do not book to misc income"
+NOT RECEIVED,AUD,329398.06,Arcturus Global Bank,Nexa Australia Pty Ltd,LP-885908,-329398.06,329398.06,Expected PSP payout not received,Open / Pending PSP,Treasury,Ask the PSP for payout status; check for a later posting

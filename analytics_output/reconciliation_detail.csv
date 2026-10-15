@@ -1,0 +1,381 @@
+bank_reference,currency,amount,bank,entity,account_number,value_date,expected_id,amount_expected,amount_diff,days_diff,match_method,reconciliation_status,exception_reason,unmatched_amount,tracking_status,assigned_owner,next_step
+AGB260302239456,USD,1650401.93,Arcturus Global Bank,Nexa Inc,****1021,2026-03-02,CV-20260302-USD,1650401.93,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302544889,EUR,570361.22,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-02,LP-884889,570361.22,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302702017,EUR,708979.81,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-02,CV-20260302-EUR,708979.81,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302233091,CHF,78194.48,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-02,LP-886577,78194.48,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302589314,SEK,644587.87,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-02,LP-886265,644587.87,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302609595,GBP,433559.18,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-02,CV-20260302-GBP,433559.18,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260302257135,BRL,1858122.22,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-02,PT-20260302-BRL,1858122.22,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260302335041,MXN,4777610.09,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-02,PT-20260302-MXN,4777610.09,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260302917086,JPY,54015585.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-02,CV-20260302-JPY,54015585.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302436250,INR,18027597.52,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-02,LP-885139,18027597.52,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302251580,AUD,338506.5,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-02,LP-885400,338506.5,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260302965426,ILS,459502.99,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-02,CV-20260302-ILS,459502.99,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260303823369,USD,567119.14,Arcturus Global Bank,Nexa Inc,****1021,2026-03-03,LP-884195,567119.14,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260303805956,EUR,332711.94,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-03,CV-20260303-EUR,332711.94,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260303265932,GBP,212622.79,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-03,CV-20260303-GBP,212622.79,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260303779141,CAD,222340.53,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-03,CV-20260303-CAD,222340.53,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260303309995,BRL,1093946.1,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-03,PT-20260303-BRL,1093946.1,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260303948836,JPY,27832366.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-03,CV-20260303-JPY,27832366.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260303847539,AUD,168415.19,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-03,LP-885426,168415.19,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304779820,USD,584195.29,Arcturus Global Bank,Nexa Inc,****1021,2026-03-04,LP-884216,584195.29,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304570907,USD,870651.86,Arcturus Global Bank,Nexa Inc,****1021,2026-03-04,CV-20260304-USD,870651.86,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304395358,EUR,361585.31,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-04,CV-20260304-EUR,361585.31,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304897861,GBP,217219.32,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-04,CV-20260304-GBP,217219.32,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304949792,CAD,210878.53,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-04,CV-20260304-CAD,210878.53,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260304430745,BRL,1097749.98,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-04,PT-20260304-BRL,1097749.98,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304313808,AUD,182185.54,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-04,LP-885462,182185.54,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305931199,USD,599857.29,Arcturus Global Bank,Nexa Inc,****1021,2026-03-05,LP-884247,599857.29,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305172677,USD,869035.7,Arcturus Global Bank,Nexa Inc,****1021,2026-03-05,CV-20260305-USD,869035.7,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305858907,EUR,419175.11,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-05,LP-884918,419175.11,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305419737,EUR,366340.12,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-05,CV-20260305-EUR,366340.12,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305432871,PLN,359638.71,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-05,LP-886065,359638.71,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305291698,SEK,534999.09,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-05,LP-886287,534999.09,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305805408,GBP,202485.1,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-05,CV-20260305-GBP,202485.1,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305549583,CAD,227376.42,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-05,CV-20260305-CAD,227376.42,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260305885476,BRL,972451.32,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-05,PT-20260305-BRL,972451.32,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260305238868,JPY,24063909.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-05,CV-20260305-JPY,24063909.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305105936,INR,12234933.71,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-05,LP-885166,12234933.71,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260305900863,ILS,342524.33,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-05,CV-20260305-ILS,342524.33,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306870942,USD,545427.78,Arcturus Global Bank,Nexa Inc,****1021,2026-03-06,LP-884273,545427.78,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306676171,EUR,365502.95,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-06,CV-20260306-EUR,365502.95,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306323520,CAD,209450.49,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-06,CV-20260306-CAD,209450.49,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260306562055,BRL,1012710.6,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-06,PT-20260306-BRL,1012710.6,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260306833944,JPY,24208408.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-06,CV-20260306-JPY,24208408.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306569602,AUD,185896.71,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-06,LP-885518,185896.71,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309520801,USD,940895.55,Arcturus Global Bank,Nexa Inc,****1021,2026-03-09,LP-884280,940895.55,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309846230,CHF,88400.84,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-09,LP-886619,88400.84,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309776132,SEK,718375.21,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-09,LP-886320,718375.21,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309872525,GBP,422802.47,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-09,CV-20260309-GBP,422802.47,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309405296,CAD,388450.52,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-09,CV-20260309-CAD,388450.52,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260309219845,MXN,4853091.38,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-09,PT-20260309-MXN,4853091.38,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309462584,INR,17262786.91,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-09,LP-885190,17262786.91,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309570043,AUD,354426.45,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-09,LP-885521,354426.45,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260309753147,ILS,548817.55,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-09,CV-20260309-ILS,548817.55,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260310416367,USD,536767.07,Arcturus Global Bank,Nexa Inc,****1021,2026-03-10,LP-884311,536767.07,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260310752176,GBP,245518.09,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-10,CV-20260310-GBP,245518.09,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260310145708,CAD,200670.36,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-10,CV-20260310-CAD,200670.36,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260310462118,BRL,1098316.59,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-10,PT-20260310-BRL,1098316.59,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260310261302,AUD,162131.46,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-10,LP-885545,162131.46,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260311121901,USD,538335.33,Arcturus Global Bank,Nexa Inc,****1021,2026-03-11,LP-884335,538335.33,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260311455032,EUR,354443.09,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-11,CV-20260311-EUR,354443.09,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260311644004,GBP,243860.45,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-11,CV-20260311-GBP,243860.45,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260311159808,CAD,210475.71,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-11,CV-20260311-CAD,210475.71,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260311293718,BRL,1052700.6,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-11,PT-20260311-BRL,1052700.6,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260311466752,AUD,185853.19,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-11,LP-885583,185853.19,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312609908,USD,1047830.42,Arcturus Global Bank,Nexa Inc,****1021,2026-03-12,CV-20260312-USD,1047830.42,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312553941,USD,574645.34,Arcturus Global Bank,Nexa Inc,****1021,2026-03-12,LP-884340,574645.34,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312123744,EUR,344196.29,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-12,CV-20260312-EUR,344196.29,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312744581,EUR,375637.95,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-12,LP-884971,375637.95,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312153683,CHF,53531.41,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-12,LP-886650,53531.41,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312194236,PLN,360392.75,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-12,LP-886105,360392.75,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312554468,SEK,545753.97,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-12,LP-886352,545753.97,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260312966430,JPY,25331499.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-12,CV-20260312-JPY,25331499.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260312922590,ILS,384329.39,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-12,CV-20260312-ILS,384329.39,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260313512182,USD,1013710.77,Arcturus Global Bank,Nexa Inc,****1021,2026-03-13,CV-20260313-USD,1013710.77,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260313903303,EUR,320654.89,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-13,CV-20260313-EUR,320654.89,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260313799087,GBP,239492.2,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-13,CV-20260313-GBP,239492.2,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260313942439,CAD,218523.86,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-13,CV-20260313-CAD,218523.86,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260313447020,JPY,26078992.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-13,CV-20260313-JPY,26078992.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260313801955,AUD,178296.17,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-13,LP-885623,178296.17,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316840459,USD,964289.77,Arcturus Global Bank,Nexa Inc,****1021,2026-03-16,LP-884410,964289.77,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316619419,USD,1834730.52,Arcturus Global Bank,Nexa Inc,****1021,2026-03-16,CV-20260316-USD,1834730.52,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316338010,EUR,604597.02,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-16,LP-884988,604597.02,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316832194,EUR,723510.09,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-16,CV-20260316-EUR,723510.09,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316369034,CHF,73970.08,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-16,LP-886669,73970.08,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316917623,PLN,506312.22,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-16,LP-886118,506312.22,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316397363,SEK,627946.07,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-16,LP-886373,627946.07,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316418207,GBP,441358.76,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-16,CV-20260316-GBP,441358.76,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316402646,CAD,425137.05,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-16,CV-20260316-CAD,425137.05,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260316773370,BRL,1907977.65,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-16,PT-20260316-BRL,1907977.65,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260316151168,MXN,4390194.74,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-16,PT-20260316-MXN,4390194.74,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260316527270,JPY,52756709.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-16,CV-20260316-JPY,52756709.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316812996,INR,15300566.08,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-16,LP-885227,15300566.08,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260316343218,AUD,347155.53,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-16,LP-885639,347155.53,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260316571861,ILS,460409.94,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-16,CV-20260316-ILS,460409.94,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260317808794,USD,592389.95,Arcturus Global Bank,Nexa Inc,****1021,2026-03-17,LP-884427,592389.95,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260317587956,EUR,341598.91,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-17,CV-20260317-EUR,341598.91,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260317979866,GBP,244706.65,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-17,CV-20260317-GBP,244706.65,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260317740907,CAD,195112.78,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-17,CV-20260317-CAD,195112.78,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260317368015,BRL,1031706.8,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-17,PT-20260317-BRL,1031706.8,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260317920576,JPY,26413416.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-17,CV-20260317-JPY,26413416.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260318102731,USD,557979.71,Arcturus Global Bank,Nexa Inc,****1021,2026-03-18,LP-884444,557979.71,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260318337395,USD,907771.23,Arcturus Global Bank,Nexa Inc,****1021,2026-03-18,CV-20260318-USD,907771.23,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260318757030,EUR,318456.14,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-18,CV-20260318-EUR,318456.14,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260318141310,GBP,237770.34,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-18,CV-20260318-GBP,237770.34,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260318162943,CAD,212260.31,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-18,CV-20260318-CAD,212260.31,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319788715,USD,899990.75,Arcturus Global Bank,Nexa Inc,****1021,2026-03-19,CV-20260319-USD,899990.75,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319837080,USD,554416.32,Arcturus Global Bank,Nexa Inc,****1021,2026-03-19,LP-884459,554416.32,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319283350,EUR,426708.8,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-19,LP-885023,426708.8,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319425416,EUR,317801.43,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-19,CV-20260319-EUR,317801.43,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319924467,CHF,58574.07,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-19,LP-886696,58574.07,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319721392,SEK,541340.02,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-19,LP-886406,541340.02,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319602059,GBP,236473.17,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-19,CV-20260319-GBP,236473.17,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260319763078,BRL,959778.33,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-19,PT-20260319-BRL,959778.33,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319669458,INR,12744460.85,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-19,LP-885256,12744460.85,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319244473,AUD,167313.2,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-19,LP-885720,167313.2,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260320251566,USD,1029098.91,Arcturus Global Bank,Nexa Inc,****1021,2026-03-20,CV-20260320-USD,1029098.91,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260320963227,CAD,228035.41,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-20,CV-20260320-CAD,228035.41,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260320102527,BRL,951596.56,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-20,PT-20260320-BRL,951596.56,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323146662,USD,1725582.92,Arcturus Global Bank,Nexa Inc,****1021,2026-03-23,CV-20260323-USD,1725582.92,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323848992,USD,1036681.12,Arcturus Global Bank,Nexa Inc,****1021,2026-03-23,LP-884527,1036681.12,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323112492,EUR,691176.42,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-23,CV-20260323-EUR,691176.42,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323131649,CHF,88267.19,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-23,LP-886732,88267.19,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323474717,PLN,459901.19,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-23,LP-886158,459901.19,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323810681,SEK,680659.33,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-23,LP-886427,680659.33,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323411741,CAD,385952.98,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-23,CV-20260323-CAD,385952.98,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260323873893,JPY,50421649.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-23,CV-20260323-JPY,50421649.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323719894,INR,17300672.02,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-23,LP-885290,17300672.02,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323421834,AUD,317413.56,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-23,LP-885772,317413.56,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260323233745,ILS,469945.98,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-23,CV-20260323-ILS,469945.98,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260324707572,USD,572801.21,Arcturus Global Bank,Nexa Inc,****1021,2026-03-24,LP-884563,572801.21,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260324496276,EUR,320780.58,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-24,CV-20260324-EUR,320780.58,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260324370946,GBP,226455.04,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-24,CV-20260324-GBP,226455.04,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260324324186,CAD,208833.2,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-24,CV-20260324-CAD,208833.2,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260324826783,BRL,1128111.79,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-24,PT-20260324-BRL,1128111.79,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260324469489,JPY,27671001.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-24,CV-20260324-JPY,27671001.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260324993946,AUD,167247.32,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-24,LP-885811,167247.32,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260325421635,USD,980441.81,Arcturus Global Bank,Nexa Inc,****1021,2026-03-25,CV-20260325-USD,980441.81,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260325644958,GBP,243912.66,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-25,CV-20260325-GBP,243912.66,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260325844123,BRL,1038540.97,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-25,PT-20260325-BRL,1038540.97,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260325419367,JPY,24330681.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-25,CV-20260325-JPY,24330681.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260325907236,AUD,165694.0,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-25,LP-885841,165694.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326360325,USD,525335.35,Arcturus Global Bank,Nexa Inc,****1021,2026-03-26,LP-884616,525335.35,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326862597,USD,1051801.08,Arcturus Global Bank,Nexa Inc,****1021,2026-03-26,CV-20260326-USD,1051801.08,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326571846,EUR,368229.5,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-26,CV-20260326-EUR,368229.5,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326800702,PLN,327371.95,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-26,LP-886195,327371.95,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326794764,SEK,477142.71,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-26,LP-886440,477142.71,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326288778,CAD,230010.22,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-26,CV-20260326-CAD,230010.22,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260326953802,MXN,3272477.86,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-26,PT-20260326-MXN,3272477.86,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260326266712,ILS,390806.07,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-26,CV-20260326-ILS,390806.07,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260327520447,USD,1014595.65,Arcturus Global Bank,Nexa Inc,****1021,2026-03-27,CV-20260327-USD,1014595.65,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260327686266,EUR,379239.71,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-27,CV-20260327-EUR,379239.71,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260327517427,GBP,226147.55,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-27,CV-20260327-GBP,226147.55,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260327703963,AUD,180775.72,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-27,LP-885897,180775.72,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330186948,USD,1844247.14,Arcturus Global Bank,Nexa Inc,****1021,2026-03-30,CV-20260330-USD,1844247.14,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330234227,USD,1137596.08,Arcturus Global Bank,Nexa Inc,****1021,2026-03-30,LP-884665,1137596.08,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330410589,EUR,569436.15,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-30,LP-885065,569436.15,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330417456,PLN,473938.44,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-30,LP-886204,473938.44,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330163208,GBP,425270.84,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-30,CV-20260330-GBP,425270.84,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330176630,CAD,409175.02,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-30,CV-20260330-CAD,409175.02,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260330638894,BRL,1970822.33,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-30,PT-20260330-BRL,1970822.33,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260330152276,MXN,4557909.8,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-30,PT-20260330-MXN,4557909.8,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260330201676,JPY,46882587.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-30,CV-20260330-JPY,46882587.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330340872,INR,16172168.42,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-30,LP-885355,16172168.42,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331305754,USD,512996.78,Arcturus Global Bank,Nexa Inc,****1021,2026-03-31,LP-884680,512996.78,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331702487,USD,1008315.11,Arcturus Global Bank,Nexa Inc,****1021,2026-03-31,CV-20260331-USD,1008315.11,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331112287,EUR,382569.18,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-31,CV-20260331-EUR,382569.18,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331310735,GBP,223209.57,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-31,CV-20260331-GBP,223209.57,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260331195940,BRL,1094046.22,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-31,PT-20260331-BRL,1094046.22,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401243859,USD,1028633.1,Arcturus Global Bank,Nexa Inc,****1021,2026-04-01,CV-20260401-USD,1028633.1,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401604906,EUR,335442.27,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-01,CV-20260401-EUR,335442.27,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401303389,GBP,232291.02,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-01,CV-20260401-GBP,232291.02,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401323535,CAD,227160.6,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-01,CV-20260401-CAD,227160.6,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260401186472,BRL,1094633.2,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-01,PT-20260401-BRL,1094633.2,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401329436,AUD,182437.72,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-04-01,LP-885928,182437.72,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402641673,USD,551996.45,Arcturus Global Bank,Nexa Inc,****1021,2026-04-02,LP-884727,551996.45,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402770686,EUR,432913.21,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-02,LP-885073,432913.21,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402957259,CHF,63764.84,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-02,LP-886763,63764.84,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402235211,SEK,485099.47,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-02,LP-886483,485099.47,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260402515805,BRL,950945.94,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-02,PT-20260402-BRL,950945.94,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402168907,INR,12763396.46,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-04-02,LP-885375,12763396.46,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402724158,AUD,165839.47,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-04-02,LP-885935,165839.47,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260403961475,USD,876233.93,Arcturus Global Bank,Nexa Inc,****1021,2026-04-03,CV-20260403-USD,876233.93,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260403453595,USD,557054.52,Arcturus Global Bank,Nexa Inc,****1021,2026-04-03,LP-884758,557054.52,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260403304229,JPY,25962761.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-03,CV-20260403-JPY,25962761.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260406218659,USD,1898082.84,Arcturus Global Bank,Nexa Inc,****1021,2026-04-06,CV-20260406-USD,1898082.84,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260406701936,CAD,427386.46,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-06,CV-20260406-CAD,427386.46,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260406210443,BRL,1883349.76,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-06,PT-20260406-BRL,1883349.76,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407743864,USD,964766.56,Arcturus Global Bank,Nexa Inc,****1021,2026-04-07,CV-20260407-USD,964766.56,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407692472,USD,531499.88,Arcturus Global Bank,Nexa Inc,****1021,2026-04-07,LP-884798,531499.88,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407332695,CAD,206872.66,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-07,CV-20260407-CAD,206872.66,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260407693182,BRL,1016704.51,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-07,PT-20260407-BRL,1016704.51,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260407921277,JPY,27525736.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-07,CV-20260407-JPY,27525736.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407616740,AUD,172146.56,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-04-07,LP-885971,172146.56,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260408775896,USD,543328.89,Arcturus Global Bank,Nexa Inc,****1021,2026-04-08,LP-884833,543328.89,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260408797989,EUR,325959.33,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-08,CV-20260408-EUR,325959.33,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260408349130,GBP,210828.11,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-08,CV-20260408-GBP,210828.11,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260408538968,BRL,1116145.02,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-08,PT-20260408-BRL,1116145.02,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260408485465,JPY,24384203.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-08,CV-20260408-JPY,24384203.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260408505582,AUD,170980.3,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-04-08,LP-886009,170980.3,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409477084,USD,534160.83,Arcturus Global Bank,Nexa Inc,****1021,2026-04-09,LP-884858,534160.83,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409436627,USD,887754.36,Arcturus Global Bank,Nexa Inc,****1021,2026-04-09,CV-20260409-USD,887754.36,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409383356,EUR,418430.75,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-09,LP-885102,418430.75,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409658304,EUR,355246.23,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-09,CV-20260409-EUR,355246.23,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409248969,SEK,511538.76,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-09,LP-886549,511538.76,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409305941,GBP,208287.42,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-09,CV-20260409-GBP,208287.42,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409130835,CAD,195565.28,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-09,CV-20260409-CAD,195565.28,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260409487229,BRL,1091376.09,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-09,PT-20260409-BRL,1091376.09,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260409365131,MXN,3245987.96,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-04-09,PT-20260409-MXN,3245987.96,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260409115565,JPY,28694960.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-09,CV-20260409-JPY,28694960.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409959497,INR,11703679.73,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-04-09,LP-885395,11703679.73,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409708107,AUD,183444.44,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-04-09,LP-886021,183444.44,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260409234605,ILS,361690.51,Levanta Bank,Nexa Technologies Ltd,****8840,2026-04-09,CV-20260409-ILS,361690.51,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260410474475,USD,871354.39,Arcturus Global Bank,Nexa Inc,****1021,2026-04-10,CV-20260410-USD,871354.39,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260410426466,USD,491559.28,Arcturus Global Bank,Nexa Inc,****1021,2026-04-10,LP-884872,491559.28,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260410863130,EUR,362310.53,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-10,CV-20260410-EUR,362310.53,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260410158057,GBP,213107.5,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-10,CV-20260410-GBP,213107.5,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260410258650,CAD,202557.75,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-10,CV-20260410-CAD,202557.75,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260410271143,BRL,1093102.07,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-10,PT-20260410-BRL,1093102.07,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260410306162,JPY,25871180.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-10,CV-20260410-JPY,25871180.0,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260410117222,AUD,172088.79,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-04-10,LP-886025,172088.79,0.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260401255820,JPY,23887544.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-01,CV-20260401-JPY,23888830.0,-1286.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312413443,CAD,220686.09,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-12,CV-20260312-CAD,220711.12,-25.029999999998836,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319949272,CAD,213029.62,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-19,CV-20260319-CAD,213054.52,-24.89999999999418,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260309516758,BRL,1940812.24,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-09,PT-20260309-BRL,1940569.67,242.5700000000652,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312516725,AUD,168587.25,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-12,LP-885596,168610.68,-23.429999999993015,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312360381,GBP,226662.2,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-12,CV-20260312-GBP,226727.43,-65.22999999998137,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306274639,GBP,245954.19,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-06,CV-20260306-GBP,246025.35,-71.16000000000349,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305608102,CHF,63685.2,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-05,LP-886613,63703.79,-18.590000000003783,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309483500,USD,1900036.87,Arcturus Global Bank,Nexa Inc,****1021,2026-03-09,CV-20260309-USD,1899481.11,555.7600000000093,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260324211468,USD,1044882.23,Arcturus Global Bank,Nexa Inc,****1021,2026-03-24,CV-20260324-USD,1045193.33,-311.0999999999767,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260317201539,AUD,167355.56,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-17,LP-885664,167298.76,56.79999999998836,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260402134468,JPY,25470186.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-02,CV-20260402-JPY,25461050.0,9136.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260408387391,USD,986471.65,Arcturus Global Bank,Nexa Inc,****1021,2026-04-08,CV-20260408-USD,986060.86,410.79000000003725,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260325711452,EUR,354178.46,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-25,CV-20260325-EUR,354023.63,154.8300000000163,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260311195362,JPY,25488982.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-11,CV-20260311-JPY,25501108.0,-12126.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260331371654,JPY,25714926.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-31,CV-20260331-JPY,25728421.0,-13495.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402952155,GBP,232663.85,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-02,CV-20260402-GBP,232793.56,-129.70999999999185,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260320241779,USD,596064.52,Arcturus Global Bank,Nexa Inc,****1021,2026-03-20,LP-884488,596404.89,-340.36999999999534,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260318286697,AUD,165480.67,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-18,LP-885685,165386.28,94.39000000001397,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260325126241,CAD,224893.97,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-25,CV-20260325-CAD,225026.68,-132.70999999999185,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260327615502,USD,597871.51,Arcturus Global Bank,Nexa Inc,****1021,2026-03-27,LP-884640,597477.51,394.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260330976366,ILS,530573.48,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-30,CV-20260330-ILS,530933.92,-360.44000000006054,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326525859,AUD,177648.51,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-26,LP-885868,177769.23,-120.72000000000116,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260406620659,MXN,4623003.94,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-04-06,PT-20260406-MXN,4626424.41,-3420.4699999997392,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302532581,PLN,504163.75,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-02,LP-886050,503758.31,405.4400000000023,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260326250877,JPY,24953479.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-26,CV-20260326-JPY,24933373.0,20106.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409348058,PLN,341097.73,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-09,LP-886261,341388.24,-290.5100000000093,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260319251154,JPY,28942486.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-19,CV-20260319-JPY,28967483.0,-24997.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302158633,USD,1019115.45,Arcturus Global Bank,Nexa Inc,****1021,2026-03-02,LP-884158,1018200.86,914.5899999999674,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260318468202,JPY,28299624.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-18,CV-20260318-JPY,28273885.0,25739.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326934150,INR,12659921.46,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-26,LP-885325,12648130.18,11791.280000001192,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260305584941,MXN,3155918.34,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-05,PT-20260305-MXN,3158909.39,-2991.0500000002794,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260408322254,CAD,226425.26,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-08,CV-20260408-CAD,226641.87,-216.60999999998603,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260406636155,USD,975712.34,Arcturus Global Bank,Nexa Inc,****1021,2026-04-06,LP-884793,974770.51,941.8299999999581,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260323349490,BRL,1929454.96,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-23,PT-20260323-BRL,1927570.5,1884.4599999999627,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260317582938,USD,939886.23,Arcturus Global Bank,Nexa Inc,****1021,2026-03-17,CV-20260317-USD,940810.84,-924.609999999986,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305400561,AUD,172511.07,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-05,LP-885482,172684.04,-172.97000000000116,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260327993144,JPY,27267919.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-27,CV-20260327-JPY,27295548.0,-27629.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260327131443,CAD,223009.11,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-27,CV-20260327-CAD,223239.78,-230.6700000000128,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260302689289,CAD,398257.21,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-02,CV-20260302-CAD,397841.11,416.1000000000349,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323286393,GBP,400725.6,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-23,CV-20260323-GBP,400295.47,430.13000000000466,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330543331,EUR,603615.94,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-30,CV-20260330-EUR,602950.74,665.1999999999534,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306106873,USD,876536.9,Arcturus Global Bank,Nexa Inc,****1021,2026-03-06,CV-20260306-USD,875565.17,971.7299999999814,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331965991,CAD,206218.86,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-31,CV-20260331-CAD,205988.84,230.01999999998952,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260319530847,MXN,3498189.74,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-19,PT-20260319-MXN,3502208.29,-4018.5499999998137,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260310755710,EUR,367156.58,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-10,CV-20260310-EUR,367613.54,-456.95999999996275,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260406824487,ILS,529948.9,Levanta Bank,Nexa Technologies Ltd,****8840,2026-04-06,CV-20260406-ILS,530613.85,-664.9499999999534,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260310902508,USD,1018050.2,Arcturus Global Bank,Nexa Inc,****1021,2026-03-10,CV-20260310-USD,1019434.02,-1383.8200000000652,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260326364660,BRL,1105441.06,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-26,PT-20260326-BRL,1103916.94,1524.1200000001118,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260327903132,BRL,959317.9,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-27,PT-20260327-BRL,957966.76,1351.140000000014,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260312915943,INR,12274931.7,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-03-12,LP-885207,12292365.52,-17433.820000000298,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407253304,EUR,366820.95,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-07,CV-20260407-EUR,367345.33,-524.3800000000047,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319753212,PLN,355257.9,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-19,LP-886149,354744.96,512.9400000000023,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402116745,CAD,187662.73,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-02,CV-20260402-CAD,187936.15,-273.4199999999837,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260320739970,EUR,354294.34,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-20,CV-20260320-EUR,353774.1,520.2400000000489,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260325324346,USD,524439.84,Arcturus Global Bank,Nexa Inc,****1021,2026-03-25,LP-884596,525232.66,-792.8200000000652,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326653636,CHF,60196.95,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-26,LP-886735,60104.87,92.07999999999447,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260409967559,CHF,61490.82,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-09,LP-886806,61395.69,95.12999999999738,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260320902202,GBP,225762.21,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-20,CV-20260320-GBP,225411.74,350.47000000000116,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260310698337,JPY,26628287.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-10,CV-20260310-JPY,26669932.0,-41645.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323630471,EUR,625036.07,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-23,LP-885038,624045.94,990.1300000000047,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401307553,USD,508787.61,Arcturus Global Bank,Nexa Inc,****1021,2026-04-01,LP-884701,509599.82,-812.210000000021,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260406424621,INR,16930854.77,Arcturus Global Bank,Nexa India Pvt Ltd,****6612,2026-04-06,LP-885389,16959102.82,-28248.050000000745,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260313244332,USD,584482.93,Arcturus Global Bank,Nexa Inc,****1021,2026-03-13,LP-884373,585501.8,-1018.8699999999953,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260406745789,JPY,53346659.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-06,CV-20260406-JPY,53440429.0,-93770.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260309158522,JPY,46044606.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-09,CV-20260309-JPY,45957730.0,86876.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330957423,SEK,633105.71,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-30,LP-886473,631909.61,1196.0999999999767,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309856614,EUR,571497.19,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-09,LP-884948,572600.12,-1102.9300000000512,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309970527,PLN,497456.93,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-09,LP-886095,496460.62,996.3099999999977,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260312736397,MXN,3582211.02,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-12,PT-20260312-MXN,3574979.5,7231.520000000019,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260319819614,ILS,342405.38,Levanta Bank,Nexa Technologies Ltd,****8840,2026-03-19,CV-20260319-ILS,341701.36,704.0200000000186,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326658675,EUR,409909.96,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-26,LP-885048,410770.9,-860.9400000000023,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326644020,GBP,203834.4,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-26,CV-20260326-GBP,204269.75,-435.3500000000058,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260320886497,AUD,190370.92,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-20,LP-885736,190777.56,-406.63999999998487,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260304857884,JPY,24695062.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-04,CV-20260304-JPY,24642412.0,52650.0,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260312762934,BRL,1139948.21,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-12,PT-20260312-BRL,1142420.34,-2472.130000000121,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402652715,USD,1017855.5,Arcturus Global Bank,Nexa Inc,****1021,2026-04-02,CV-20260402-USD,1020106.1,-2250.5999999999767,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260318675337,BRL,981349.98,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-18,PT-20260318-BRL,983618.27,-2268.2900000000373,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331936871,AUD,191124.7,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-31,LP-885923,190676.53,448.1700000000128,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260311136842,USD,869710.17,Arcturus Global Bank,Nexa Inc,****1021,2026-03-11,CV-20260311-USD,871924.82,-2214.649999999907,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260323229523,MXN,4384827.33,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-03-23,PT-20260323-MXN,4373706.07,11121.259999999776,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402263409,EUR,324117.73,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-02,CV-20260402-EUR,324992.95,-875.2200000000303,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260313421215,BRL,1135178.79,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-13,PT-20260313-BRL,1138292.19,-3113.399999999907,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309678138,EUR,601630.48,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-09,CV-20260309-EUR,599925.19,1705.2900000000373,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330330797,CHF,75704.8,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-03-30,LP-886743,75923.27,-218.47000000000116,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407105999,GBP,231516.52,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-07,CV-20260407-GBP,230745.74,770.7799999999988,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402670137,PLN,333875.19,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-02,LP-886232,335216.05,-1340.859999999986,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260303171032,USD,1042494.51,Arcturus Global Bank,Nexa Inc,****1021,2026-03-03,CV-20260303-USD,1038341.15,4153.359999999986,0.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407400648,EUR,612568.12,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-07,LP-885087,612568.12,0.0,1.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407606836,CHF,82717.21,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-07,LP-886783,82717.21,0.0,1.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407898865,SEK,759403.52,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-07,LP-886517,759403.52,0.0,1.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407734889,GBP,392261.16,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-07,CV-20260406-GBP,392261.16,0.0,1.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407829857,AUD,327534.45,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-04-07,LP-885956,327534.45,0.0,1.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407661425,EUR,679441.8,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-07,CV-20260406-EUR,679366.7,75.10000000009313,1.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407991124,PLN,520715.36,Arcturus Global Bank,Nexa Europe B.V.,****2290,2026-04-07,LP-886246,520383.53,331.8299999999581,1.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+LVB260403634390,ILS,326999.4,Levanta Bank,Nexa Technologies Ltd,****8840,2026-04-03,CV-20260402-ILS,326737.96,261.4400000000023,1.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+KPB260323120049,JPY,26396571.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-23,CV-20260320-JPY,26396571.0,0.0,3.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260406825228,CAD,213564.77,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-06,CV-20260403-CAD,213564.77,0.0,3.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BIP260406880737,BRL,1081111.96,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-06,PT-20260403-BRL,1081111.96,0.0,3.0,psp_account_amount,matched,N/A,0.0,N/A,N/A,N/A
+BNO260406832637,MXN,3101579.97,Banco Nopalera,Nexa Mexico S. de R.L.,****5560,2026-04-06,PT-20260402-MXN,3101579.97,0.0,4.0,psp_account_amount,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260407264670,EUR,323667.14,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-07,CV-20260403-EUR,323667.14,0.0,4.0,psp_account_amount,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260407555259,GBP,237991.86,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-07,CV-20260403-GBP,237991.86,0.0,4.0,psp_account_amount,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260407422339,AUD,198848.69,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-04-07,LP-885939,198848.69,0.0,4.0,psp_account_amount,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260304182588,USD,4800.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-04,INV-19575,4800.0,0.0,0.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304201817,USD,4800.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-04,INV-19581,4800.0,0.0,0.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304149838,EUR,3900.0,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-04,INV-19559,3900.0,0.0,0.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260304947342,GBP,7710.0,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-04,INV-19627,7710.0,0.0,-2.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260305685510,USD,6300.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-05,INV-19632,6300.0,0.0,-1.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+KPB260305755090,JPY,1650000.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-05,INV-19587,1650000.0,0.0,1.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306521272,EUR,7800.0,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-06,INV-19565,7800.0,0.0,2.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306640482,GBP,64775.0,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-06,INV-19621,64800.0,-25.0,1.0,invoice_number,exception_or_followup,Short payment - bank fee deduction,25.0,Under AR Review,AR & Treasury,Confirm payer-side bank charges; clear the small residual or request a top-up
+BIP260306777625,BRL,42000.0,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-06,INV-19622,42000.0,0.0,0.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260306150449,AUD,96500.0,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-06,INV-19564,96500.0,0.0,2.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309198774,USD,15900.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-06,INV-19529,15900.0,0.0,32.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260309447338,USD,12400.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-09,INV-19639,12400.0,0.0,3.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309179888,USD,67630.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-09,INV-19613,67630.0,0.0,4.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260310602158,USD,4150.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-10,INV-19594,4150.0,0.0,5.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260310488337,USD,8650.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-10,INV-19568,8650.0,0.0,6.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260311161437,USD,6200.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-11,INV-19645,6200.0,0.0,-1.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+BIP260312687193,BRL,1850000.0,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-03-12,INV-19644,1850000.0,0.0,0.0,invoice_number,exception_or_followup,Receipt returned by bank (wire return),1850000.0,Escalated,Treasury & AR,Invoice stays open; confirm correct bank details via a known Treasury contact (no email changes)
+AGB260316174508,USD,9900.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-16,INV-19607,9900.0,0.0,11.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260317380400,EUR,88385.0,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-17,INV-19651,88400.0,-15.0,1.0,invoice_number,exception_or_followup,Short payment - bank fee deduction,15.0,Under AR Review,AR & Treasury,Confirm payer-side bank charges; clear the small residual or request a top-up
+KPB260317541415,JPY,18397500.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-03-17,INV-19657,18400000.0,-2500.0,1.0,invoice_number,exception_or_followup,Short payment - bank fee deduction,2500.0,Under AR Review,AR & Treasury,Confirm payer-side bank charges; clear the small residual or request a top-up
+AGB260319571911,USD,148500.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-19,INV-19666,184500.0,-36000.0,0.0,invoice_number,exception_or_followup,Short payment,36000.0,Open / Under AR Review,AR Team,Contact customer for remittance advice and request the balance
+AGB260319544178,EUR,5250.0,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-03-19,INV-19547,5250.0,0.0,15.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260323815706,USD,142800.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-23,INV-19585,142800.0,0.0,19.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260325217340,GBP,9150.0,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-25,INV-19615,9150.0,0.0,20.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260330676097,USD,61900.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-30,INV-19708,61900.0,0.0,-2.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260330538778,AUD,11410.0,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-30,INV-19682,11410.0,0.0,0.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331186536,USD,6300.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-31,INV-19791,6300.0,0.0,-3.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331849547,EUR,1148720.0,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-01,INV-19659,1148720.0,0.0,1.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331639426,AUD,10770.0,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-31,INV-19698,10770.0,0.0,-1.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401484449,USD,386250.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-31,INV-19543,386250.0,0.0,0.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401521716,USD,4800.0,Arcturus Global Bank,Nexa Inc,****1021,2026-04-01,INV-19720,4800.0,0.0,0.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401407371,USD,4800.0,Arcturus Global Bank,Nexa Inc,****1021,2026-04-01,INV-19715,4800.0,0.0,0.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260401190613,USD,3450.0,Arcturus Global Bank,Nexa Inc,****1021,2026-04-01,INV-19779,3450.0,0.0,-2.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260402359602,USD,275270.0,Arcturus Global Bank,Nexa Inc,****1021,2026-04-01,INV-19756,275270.0,0.0,-1.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+KPB260403670166,JPY,18400000.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-03,INV-19742,18400000.0,0.0,1.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260406290252,USD,21800.0,Arcturus Global Bank,Nexa Inc,****1021,2026-04-06,INV-19772,21800.0,0.0,3.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+BIP260406127441,BRL,42000.0,Banco Ipanova,Nexa Brasil Ltda,****5122,2026-04-06,INV-19732,42000.0,0.0,4.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+KPB260406925323,JPY,1906130.0,Kaiun Pacific Bank,Nexa Japan K.K.,****6034,2026-04-06,INV-19800,1906130.0,0.0,3.0,invoice_number,matched,N/A,0.0,N/A,N/A,N/A
+AGB260407460808,USD,9900.0,Arcturus Global Bank,Nexa Inc,****1021,2026-04-07,INV-19778,9900.0,0.0,4.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260407706576,EUR,88400.0,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-07,INV-19752,88400.0,0.0,5.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260407581170,GBP,64800.0,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-04-07,INV-19804,64800.0,0.0,4.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260408324194,EUR,9890.0,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-07,INV-19704,9890.0,0.0,6.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260408787915,CAD,14510.0,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-04-07,INV-19707,14510.0,0.0,6.0,invoice_number,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260305925022,USD,74250.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-05,INV-19556,74250.0,0.0,1.0,customer_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260309580256,USD,21800.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-09,INV-19601,21800.0,0.0,4.0,customer_amount,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260319122374,USD,96400.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-19,INV-19560,96400.0,0.0,0.0,customer_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260323543197,CAD,11200.0,Arcturus Global Bank,Nexa Canada Inc,****4410,2026-03-23,INV-19571,11200.0,0.0,19.0,customer_amount,timing_difference,N/A,0.0,N/A,N/A,N/A
+AGB260324429628,USD,3450.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-24,INV-19678,3450.0,0.0,-1.0,customer_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260326712960,USD,2400000.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-26,INV-19810,2400000.0,0.0,0.0,customer_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331443823,USD,12400.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-31,INV-19793,12400.0,0.0,-3.0,customer_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260331645582,GBP,6400.0,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-31,INV-19739,6400.0,0.0,-2.0,customer_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260406704188,USD,74250.0,Arcturus Global Bank,Nexa Inc,****1021,2026-04-06,INV-19765,74250.0,0.0,3.0,customer_amount,matched,N/A,0.0,N/A,N/A,N/A
+AGB260319598298,USD,248000.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-19,INV-19673,212000.0,36000.0,0.0,customer_only,exception_or_followup,Overpayment,36000.0,Open / Under AR Review,AR Team,Check for a misapplied payment; refund or apply to the next invoice
+AGB260311503306,USD,27600.0,Arcturus Global Bank,Nexa Inc,****1021,2026-03-11,,,,,none,exception_or_followup,Unapplied receipt (no expected record),27600.0,Open / Under AR Review,AR & Sales Ops,"Identify customer/contract; keep in suspense, do not book to misc income"
+AGB260320436939,GBP,18250.0,Arcturus Global Bank,Nexa UK Ltd,****3307,2026-03-20,,,,,none,exception_or_followup,Unapplied receipt (no expected record),18250.0,Open / Under AR Review,AR & Sales Ops,"Identify customer/contract; keep in suspense, do not book to misc income"
+AGB260402435782,EUR,41000.0,Arcturus Global Bank,Nexa Europe B.V.,****2210,2026-04-02,,,,,none,exception_or_followup,Unapplied receipt (no expected record),41000.0,Open / Under AR Review,AR & Sales Ops,"Identify customer/contract; keep in suspense, do not book to misc income"
+NOT RECEIVED,AUD,329398.06,Arcturus Global Bank,Nexa Australia Pty Ltd,****7019,2026-03-30,LP-885908,329398.06,-329398.06,,none,exception_or_followup,Expected PSP payout not received,329398.06,Open / Pending PSP,Treasury,Ask the PSP for payout status; check for a later posting
